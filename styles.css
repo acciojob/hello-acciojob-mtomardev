@@ -9,7 +9,8 @@ width: 150px;
 }
 
 p .hello-accio{
-    color: white;
+    /* color: white; */
+    color: rgb(255, 255, 255);
     margin-left: 32px;
     padding: 10px;
 }
